@@ -1,0 +1,8 @@
+{
+  "name": "智创未来",
+  "description": "融合科技创新、数字赋能、智慧生活、产业升级四大维度，集成AIGC叙事核心、动态数字特效与粒子合成器，沉浸式全景展现数智时代新蓝图。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
